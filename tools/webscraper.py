@@ -1,4 +1,5 @@
 import bs4 as BeautifulSoup
+import selenium as selenium
 import selenium.webdriver as webdriver
 import requests
 

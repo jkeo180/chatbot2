@@ -1,0 +1,45 @@
+copy2 Open source
+OPEN SOURCE 
+Cool question. Since you’re already into coding, AI, robotics and space topics — there *are* open-source space projects out there that are roughly at or just above your current skill level. Some are beginner-friendly, others will stretch you (in a good way). If you wanted to start contributing, build skills, or just tinker 👉 here are a few I’d check out **right now** if I were you.
+
+---
+
+## 🚀 Open-source space / astronomy / robotics projects worth your time
+
+| Project                                                                      | What it covers / Why it’s good for you                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Orbiter Space Flight Simulator**                                           | A realistic spaceflight simulator published under MIT license — you can modify physics, add custom spacecraft or planets, play with orbital mechanics. Great for learning fundamentals of spaceflight, gravity, and simulation programming. ([Wikipedia][1]) |
+| **Ames Stereo Pipeline (ASP)**                                               | Used to create terrain and 3D models from planetary and satellite images. Good if you like mapping, geometry, planetary surfaces (Mars, Moon, etc.) — intersects with data processing + geospatial coding. ([Wikipedia][2])                                  |
+| **REBOUND**                                                                  | N-body physics simulator — handles gravitational dynamics, collisions, orbital simulations. Helps you build intuition for celestial mechanics, orbital dynamics, even asteroid / ring simulations. ([arXiv][3])                                              |
+| **HNSKY** (Hallo Northern Sky)                                               | Open-source planetarium / sky-chart + celestial simulator. More “astronomy-lite,” but good for playing with star maps, constellations, and potentially integrating observational data or building astronomy-tools. ([Wikipedia][4])                          |
+| **TART Radio Telescope (or at least its software stack)**                    | A low-cost open-source radio-telescope project. If you ever want to mix hardware (like maybe a Raspberry Pi, antennas) + software + coding — this is a great blend of physical DIY and astrophysics. ([Wikipedia][5])                                        |
+| **Popular open-source Earth & space data tools from NASA / community repos** | NASA releases a huge amount of data & open-source code. Good for “citizen-scientist” style work — data analysis, visualization, remote sensing, astrophysics, etc. ([NASA][6])                                                                               |
+
+---
+
+## 🎯 Which ones match your skill + interest right now
+
+Since you are already working on AI, computer vision, robotics — the sweet spot is projects that mix **space + simulation + data processing + coding**. That means ASP, REBOUND, Orbiter, TART stand out as especially good fits. They challenge you technically, but aren’t so advanced that you’d be lost.
+
+Also, if you want to stretch yourself — maybe a data-pipeline with NASA’s open data + some ML/vision tools would be a powerful combo.
+
+---
+
+## 🔧 How I’d start if I were you (and you like space + coding)
+
+1. **Pick one project** — e.g. Orbiter or REBOUND.
+2. Clone it, build locally, run a simple example.
+3. Tinker: change a parameter, simulate a different planet, or add a simple script (Python, if supported).
+4. Document what you changed: commit to GitHub + log what you learned (this helps future employers see you’re serious).
+5. If you like it — try to add a **small feature** or fix a bug. That’s how you move from “user” to “contributor.”
+
+If you want, I can **pull up 5–10 more open-source space-projects right now**, with direct GitHub URLs, **ranked by relative difficulty** (easy → hard).
+That way you can pick which fits your time / energy level best without overshooting or underwhelming yourself.
+Want me to build that list for you now?
+
+[1]: https://en.wikipedia.org/wiki/Orbiter_%28simulator%29?utm_source=chatgpt.com "Orbiter (simulator)"
+[2]: https://en.wikipedia.org/wiki/Ames_Stereo_Pipeline?utm_source=chatgpt.com "Ames Stereo Pipeline"
+[3]: https://arxiv.org/abs/1110.4876?utm_source=chatgpt.com "REBOUND: An open-source multi-purpose N-body code for collisional dynamics"
+[4]: https://en.wikipedia.org/wiki/HNSKY?utm_source=chatgpt.com "HNSKY"
+[5]: https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope?utm_source=chatgpt.com "Transient Array Radio Telescope"
+[6]: https://www.nasa.gov/nasa-open-source-development/?utm_source=chatgpt.com "NASA Open Source Development - NASA"

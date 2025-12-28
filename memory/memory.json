@@ -1,0 +1,354 @@
+[
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "do you have memory"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: do you have memory"
+    },
+    {
+        "role": "user",
+        "content": "can you remember anything"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: can you remember anything"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "user",
+        "content": "exit"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: exit"
+    },
+    {
+        "role": "user",
+        "content": "'exit'"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: 'exit'"
+    },
+    {
+        "role": "user",
+        "content": "goodbye"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: goodbye"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "hi& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hello"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main3.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main2.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/chatbot_clean.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/chatbot_clean.py"
+    },
+    {
+        "role": "user",
+        "content": "quit"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: quit"
+    },
+    {
+        "role": "user",
+        "content": "'quit'"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: 'quit'"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/chatbot_clean.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/chatbot_clean.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main5.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main5.py"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main5.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main5.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: "
+    },
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: "
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: & C:/Users/11/chatbot2/venv/Scripts/python.exe c:/Users/11/chatbot2/main.py"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: hi"
+    },
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "Echo: "
+    }
+]
