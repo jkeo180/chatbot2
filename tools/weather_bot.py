@@ -4,7 +4,7 @@ from django.http import JsonResponse
 from matplotlib.pyplot as plt
 import pandas as pd
 
-API_KEY = '83fb6c8684bbba90c272a607767fd712'
+API_KEY = 'API KEY'
 BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 def get_weather(request):
